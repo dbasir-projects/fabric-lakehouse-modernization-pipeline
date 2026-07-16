@@ -34,7 +34,7 @@ By orchestrating automated pipelines, the system ingests semi-structured seismic
 
 ---
 
-## 🛠️ Tech Stack & Skills Highlighted
+##  Tech Stack & Skills Highlighted
 * **Cloud Platform:** Microsoft Fabric (OneLake, Lakehouse, Data Factory, Notebooks)
 * **Languages:** PySpark, Spark SQL, T-SQL, DAX
 * **Storage Engine:** Delta Lake / Parquet
@@ -42,7 +42,7 @@ By orchestrating automated pipelines, the system ingests semi-structured seismic
 
 ---
 
-## 🚀 Key Enhancements Implemented
+##  Key Enhancements Implemented
 * **Medallion Pipeline Partitioning:** Partitioned the Silver delta tables to optimize query performance when pulling historical monthly data.
 * **Direct Lake Optimization:** Configured semantic models utilizing Direct Lake mode to ensure near-real-time executive dashboard updates without manual dataset refreshes.
 * **Standardized Governance:** Implemented mock security roles (RLS) and standardized KPI definitions in the semantic layer to align with modern corporate data governance standards.
